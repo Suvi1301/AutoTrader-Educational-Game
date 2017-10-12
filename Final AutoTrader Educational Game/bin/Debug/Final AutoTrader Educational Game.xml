@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Final AutoTrader Educational Game
+</name>
+</assembly>
+<members>
+<member name="T:Final_AutoTrader_Educational_Game.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.bckgrnd2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.carcopy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.EasyDifficultyButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.EasyDifficultyHover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.HardDifficultyButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.HardDifficultyHover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.Lanes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.LogoFinished">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.MediumDifficultyButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.MediumDifficultyHover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.NewTitle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.PlayAgainButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.PlayAgainButtonHover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.QuitButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Final_AutoTrader_Educational_Game.My.Resources.Resources.QuitButtonHover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
